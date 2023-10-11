@@ -30,5 +30,9 @@ This is a curated list of custom cards and UI extensions examples for HubSpot CR
 
 - Description: This React project demonstrates the use of HubSpot CRM Components through UI extensions. It includes two extensions: an Association Table displaying important deals associated with the current user and a Stage Tracker with high-level properties and property lists filtered by pipeline.
 
+## 8. [Contact-Details](https://github.com/devadigax/Contact-Details)
+
+- Description: This card displays contact details by fetching information from properties in HubSpot CRM.
+
 
 **Note:** Make sure to follow the respective GitHub repositories for installation and usage instructions specific to each extension.
