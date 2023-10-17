@@ -34,5 +34,9 @@ This is a curated list of custom cards and UI extensions examples for HubSpot CR
 
 - Description: This card displays contact details by fetching information from properties in HubSpot CRM.
 
+## 9. [Loan Calculator](https://github.com/champetoso/ui-ext-loan-calculator)
+
+- Description: Loan Calculator (HubSpot UI Extensions React Components Example)
+
 
 **Note:** Make sure to follow the respective GitHub repositories for installation and usage instructions specific to each extension.
