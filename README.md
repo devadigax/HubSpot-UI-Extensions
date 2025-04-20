@@ -1,42 +1,82 @@
-# HubSpot Custom Cards (UI Extensions Examples)
+Sure — here’s a refined and polished version of your README for clarity, consistency, and flow:
 
-This is a curated list of custom cards and UI extensions examples for HubSpot CRM. These extensions provide additional functionality and customization options for HubSpot users to enhance their CRM experience. Below, you'll find a brief description of each extension along with a link to its GitHub repository.
+---
 
-## 1. [Assign Contact to Owner Based on Postal Code](https://github.com/Antoinebr/HubSpot-crm-extension-assign-contact-to-owner-based-on-postal-code)
+# HubSpot Custom Cards & UI Extensions — Examples Collection
 
-- Description: This CRM extension queries a Google spreadsheet that maps postal codes to CRM users. It automates the process of assigning contacts to owners based on their postal codes.
-  
-## 2. [Company Proximity Navigator](https://github.com/HubSpot/ui-extensions-examples/tree/main/company-proximity-navigator)
+This is a curated list of **custom cards** and **UI extensions** for HubSpot CRM. These extensions enhance the native HubSpot experience by adding useful features, improving workflows, and offering tailored UI components for different business needs.
 
-- Description: This example utilizes a fictitious IT services company and displays company proximity information in the custom middle pane tab of a company record. It includes CRM cards to help salespeople identify nearby companies they may want to visit.
-  
-## 3. [Contact Duplicate](https://github.com/HubSpot/ui-extensions-examples/tree/main/contact-duplicate)
+Below you'll find a short description of each extension along with a link to its GitHub repository for source code and installation instructions.
 
-- Description: The Contact Duplicate extension allows HubSpot users to duplicate contacts along with their deal and company associations, as well as select contact properties.
-  
-## 4. [Deals Summary](https://github.com/HubSpot/ui-extensions-examples/tree/main/deals-summary)
+---
 
-- Description: This tutorial introduces React-based UI extensions in HubSpot CRM. It includes a CRM card with multiple components and guides you through adding additional components to the card.
-  
-## 5. [Gift A Meal](https://github.com/HubSpot/ui-extensions-examples/tree/main/example-meal-order)
+## 📋 List of Extensions
 
-- Description: The Gift A Meal extension enables HubSpot users to send meals from local restaurants to their contacts. It showcases various interactions possible with React extensions.
-  
-## 6. [Quote Generator](https://github.com/HubSpot/ui-extensions-examples/tree/main/quote-generator)
+### 1. [HubSpot Line Items Manager](https://github.com/devadigax/Hubspot-Line-Items-Manager)
+- **Description:**  
+A React-based custom Line Item management table integrated with HubSpot’s Line Items API. This extension enhances item handling by enabling real-time data sync, intuitive cloning, and easy deletion of line items.
 
-- Description: This example features a fictitious Shuttle Bus Rental Service. It allows salespeople to quickly determine which services match customer requirements and create specialized quotes with a custom UI inside the CRM.
-  
-## 7. [With CRM Components](https://github.com/HubSpot/ui-extensions-examples/tree/main/with-crm-components)
+---
 
-- Description: This React project demonstrates the use of HubSpot CRM Components through UI extensions. It includes two extensions: an Association Table displaying important deals associated with the current user and a Stage Tracker with high-level properties and property lists filtered by pipeline.
+### 2. [Assign Contact to Owner Based on Postal Code](https://github.com/Antoinebr/HubSpot-crm-extension-assign-contact-to-owner-based-on-postal-code)
+- **Description:**  
+Automates the assignment of contacts to owners based on postal codes. This extension queries a Google Spreadsheet that maps postal codes to CRM users and assigns ownership accordingly.
 
-## 8. [Contact-Details](https://github.com/devadigax/Contact-Details)
+---
 
-- Description: This card displays contact details by fetching information from properties in HubSpot CRM.
+### 3. [Company Proximity Navigator](https://github.com/HubSpot/ui-extensions-examples/tree/main/company-proximity-navigator)
+- **Description:**  
+Displays nearby companies in a custom CRM tab, designed for sales teams. Helps identify potential prospects based on geographic proximity within a company record view.
 
-## 9. [Loan Calculator](https://github.com/champetoso/ui-ext-loan-calculator)
+---
 
-- Description: Loan Calculator (HubSpot UI Extensions React Components Example)
+### 4. [Contact Duplicate](https://github.com/HubSpot/ui-extensions-examples/tree/main/contact-duplicate)
+- **Description:**  
+Easily duplicate contact records along with their deal, company associations, and selected properties. Simplifies contact creation for similar or recurring data.
 
+---
 
-**Note:** Make sure to follow the respective GitHub repositories for installation and usage instructions specific to each extension.
+### 5. [Deals Summary](https://github.com/HubSpot/ui-extensions-examples/tree/main/deals-summary)
+- **Description:**  
+An example extension that demonstrates React-based CRM cards. Offers a summary of deals and showcases how to add multiple components to a single card.
+
+---
+
+### 6. [Gift A Meal](https://github.com/HubSpot/ui-extensions-examples/tree/main/example-meal-order)
+- **Description:**  
+Send meals from local restaurants to contacts directly from the CRM. A creative example of how to build dynamic, interactive UI extensions with React.
+
+---
+
+### 7. [Quote Generator](https://github.com/HubSpot/ui-extensions-examples/tree/main/quote-generator)
+- **Description:**  
+A quote-building tool designed for a fictional shuttle bus rental service. Lets salespeople match customer needs to service offerings and generate specialized quotes directly in the CRM.
+
+---
+
+### 8. [With CRM Components](https://github.com/HubSpot/ui-extensions-examples/tree/main/with-crm-components)
+- **Description:**  
+Demonstrates advanced use of HubSpot CRM Components. Includes two sample extensions:  
+1. **Association Table** — shows related deals for the current user.  
+2. **Stage Tracker** — provides high-level pipeline tracking with filtered property lists.
+
+---
+
+### 9. [Contact Details](https://github.com/devadigax/Contact-Details)
+- **Description:**  
+Displays detailed contact information by fetching property data directly from HubSpot CRM. A helpful reference for building property-based display cards.
+
+---
+
+### 10. [Loan Calculator](https://github.com/champetoso/ui-ext-loan-calculator)
+- **Description:**  
+A simple loan calculator built using HubSpot UI Extensions and React. Useful as a learning example for financial calculators or similar widgets inside HubSpot.
+
+---
+
+💡 **Note:**  
+For installation and detailed usage instructions, refer to each repository’s README file.
+
+---
+
+If you’d like, I can also help you add a table of contents, badges, or adjust for a more formal or developer-friendly tone. Want me to do that?
