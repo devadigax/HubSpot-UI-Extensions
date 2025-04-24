@@ -1,7 +1,3 @@
-Sure — here’s a refined and polished version of your README for clarity, consistency, and flow:
-
----
-
 # HubSpot Custom Cards & UI Extensions — Examples Collection
 
 This is a curated list of **custom cards** and **UI extensions** for HubSpot CRM. These extensions enhance the native HubSpot experience by adding useful features, improving workflows, and offering tailored UI components for different business needs.
@@ -76,7 +72,3 @@ A simple loan calculator built using HubSpot UI Extensions and React. Useful as 
 
 💡 **Note:**  
 For installation and detailed usage instructions, refer to each repository’s README file.
-
----
-
-If you’d like, I can also help you add a table of contents, badges, or adjust for a more formal or developer-friendly tone. Want me to do that?
