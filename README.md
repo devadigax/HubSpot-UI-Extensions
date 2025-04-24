@@ -44,6 +44,9 @@ A curated list of open-source HubSpot UI Extension projects built by the communi
 | Wordle Game App Card | contacts | hubspotdev | [GitHub](https://github.com/hubspotdev/uie-wordle) |
 | No Create Deal Card | contacts | kobekapoor | [GitHub](https://github.com/kobekapoor/HS_Extension-NoCreateDealCard/tree/main) |
 | Book Quotes to Deals Generator | deals | hubspotdev | [GitHub](https://github.com/hubspotdev/book-quotes-to-deals) |
+| Custom Line Items with JS React | deals | Huzaifa950 | [GitHub](https://github.com/Huzaifa950/Custom-Line-Items-with-JS-React) |
+| Multicurrency line items | deals | steven-miller | [GitHub](https://github.com/steven-miller/multicurrency-line-items) |
+| Line Item inventory HubSpot UI Extension | deals | cweitz621 | [GitHub](https://github.com/cweitz621/Line_Item_inventory_HubSpot_UI_Extension) |
 
 ---
 
